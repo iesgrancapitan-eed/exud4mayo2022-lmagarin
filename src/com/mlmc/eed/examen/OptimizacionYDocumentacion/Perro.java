@@ -1,6 +1,7 @@
 package com.mlmc.eed.examen.OptimizacionYDocumentacion;
 
 public class Perro {
+	private static final String GUAUUUUUUUUUU = "GUAUUUUUUUUUU";
 	private int age;
 	private String name;
 
@@ -20,7 +21,7 @@ public class Perro {
 	}
 
 	public String ladrar() {
-		return "GUAUUUUUUUUUU";
+		return GUAUUUUUUUUUU;
 	}
 
 	public String getName() {
